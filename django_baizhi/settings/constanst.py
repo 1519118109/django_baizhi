@@ -1,0 +1,16 @@
+BANNER_LENGTH = 3
+HEADER_LENGTH = 5
+FOOTER_LENGTH = 6
+
+# 短信发送间隔
+SMS_EXPIRE_TIME = 60
+
+# 验证码有效期
+MOBILE_EXPIRE_TIME = 10 * 60
+
+# 发送短信的API_KEY
+# API_KEY = "82eaac5e1af2b035ae32a7fdf3cf686a"
+# 毛老师的密钥
+API_KEY = "40d6180426417bfc57d0744a362dc108"
+
+IMAGE_SRC = "http://baizhistore.cn:9000"
